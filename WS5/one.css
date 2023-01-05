@@ -1,0 +1,24 @@
+body{
+    background-color: cadetblue;
+    color: aliceblue;
+}
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.venue{
+ margin-left:700px;
+ margin-top: 150px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 20px;
+}
+.image{
+    margin-top: -828px;
+
+}
+img{
+    height: 950px;
+    width: 50%;
+}
